@@ -32,4 +32,4 @@ Data set will be downloaded from Kaggle.com -
 
 1.train.csv
 
-2. test.csv
+2.test.csv
