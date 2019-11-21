@@ -28,7 +28,7 @@ The analysis will be done using -
 
 4.Seaborn
 
-Data set will be downloaded from Kaggle.com -
+Data set was downloaded from Kaggle.com -
 
 1.train.csv
 
