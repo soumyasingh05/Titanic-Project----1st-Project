@@ -1,4 +1,4 @@
-# Titanic-Project----1st-Project
+# Titanic Project - 1st-Project
 #Learning Python for Data Analysis and Visualization - 
 
 This is my first project in Python.
